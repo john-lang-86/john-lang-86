@@ -25,7 +25,3 @@ The ‘MiniSAP Plus (+) Utility’ is a collection of quick-start utilities that
 
 - **[Explore the source code](https://gitlab.com/dataprofessionals/minisap-plus-utility/)** and [branch & submit merge requests](https://gitlab.com/dataprofessionals/minisap-plus-utility/-/tree/master/) to improve the 'MiniSAP Plus (+) Utility' features.
 - **[Raise an issue](https://gitlab.com/dataprofessionals/minisap-plus-utility/-/issues/)** when something isn't working as expected or to **[request an enhancement](https://gitlab.com/dataprofessionals/minisap-plus-utility/-/issues/)**.
-
-
-
-<a href="https://www.buymeacoffee.com/john.lang.86"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=john.lang.86&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00"></a>
